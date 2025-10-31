@@ -1,0 +1,5 @@
+{
+  "name": "Computer Skills Practice Center",
+  "description": "An interactive web application designed to help users practice fundamental computer skills through a series of guided exercises. Topics include file and folder management, using common office applications, compressing files, and searching the web effectively.",
+  "requestFramePermissions": []
+}
